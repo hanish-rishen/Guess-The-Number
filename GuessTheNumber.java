@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class GuessTheNumber {
     public static void main(String[] args) {
         Scanner hs= new Scanner(System.in);
         int mynumber = (int)(Math.random()*100);
